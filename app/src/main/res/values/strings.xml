@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">simulate user</string>
+    <string name="accessibility_service_description">To simulate Twitter user</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+</resources>
